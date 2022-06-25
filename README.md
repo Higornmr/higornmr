@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho com Front-end
-- 🌱 Estudano na plataforma DevClub - Full-Stack
+- 🌱 Estudando na plataforma DevClub - Full-Stack
 - 📫 Contate-me no email: higor_1992@hotmail.com
 - 😄 Pronouns: ele/dele
 

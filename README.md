@@ -31,7 +31,7 @@
 
   ##
   <div align="center">  
-  <img align="left" alt="raduken" height="50" width="40" src="https://media.giphy.com/media/KcWdO5QnBY8vu5odJO/giphy.gif">
+  <img align="left" alt="raduken" height="110" width="80" src="https://media.giphy.com/media/KcWdO5QnBY8vu5odJO/giphy.gif">
       <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
   <img align="center" alt="HTML" height="50" width="40" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
     <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
@@ -49,7 +49,7 @@
      <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
     <img align="center" alt="mongodb" height="50" width="40" src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif">
    <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
-   <img align="center" alt="mongodb" height="80" width="60" src="https://media.giphy.com/media/zGUokBlj0s2zpnfAtr/giphy.gif">
+   <img align="center" alt="docker" height="80" width="60" src="https://media.giphy.com/media/zGUokBlj0s2zpnfAtr/giphy.gif">
     <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
 </div>
 

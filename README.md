@@ -32,25 +32,25 @@
   ##
   <div align="center">  
   <img align="left" alt="raduken" height="110" width="80" src="https://media.giphy.com/media/KcWdO5QnBY8vu5odJO/giphy.gif">
-      <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
+        <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
   <img align="center" alt="HTML" height="50" width="40" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
-    <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
+      <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
   <img align="center" alt="CSS" height="50" width="40" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">   
-  <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
+   <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
   <img align="center" alt="Js" height="50" width="40" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">  
-     <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
+       <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
   <img align="center" alt="React" height="50" width="40" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" >    
-     <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
+      <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
   <img align="center" alt="Node" height="50" width="40" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
-     <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
+      <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
    <img align="center" alt="github" height="50" width="40" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
-    <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
+     <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
    <img align="center" alt="vscode" height="50" width="40" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
-     <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
+      <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
     <img align="center" alt="mongodb" height="50" width="40" src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif">
-   <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
+  <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
    <img align="center" alt="docker" height="80" width="60" src="https://media.giphy.com/media/zGUokBlj0s2zpnfAtr/giphy.gif">
-    <img align="center"  alt="star" height="50" width="40" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
+    <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
 </div>
 
  

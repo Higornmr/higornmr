@@ -1,9 +1,9 @@
-### Olá! Eu sou o Higor Rodrigues Martins
+<div align="center"><h1> Olá! Eu me chamo Higor Rodrigues Martins</h1></div>
 
  
 <div align="left">
  <img align="center" alt="Outgo caminhando" height="60" width="50" src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif"> 
- - Sou programador Front-end
+- Sou programador Full Stack
   </div>
   
  <div align="left">

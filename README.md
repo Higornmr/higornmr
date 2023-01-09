@@ -67,8 +67,10 @@
     </div>
  
  <div align="center">
- <img align="center" alt="Outgo dando tchau" height="100" width="90" src="https://media.giphy.com/media/67uEymsyDtwhifvfPc/giphy.gif"> 
+ <img align="center" alt="Outgo dando tchau" height="100" width="90" src="https://media.giphy.com/media/67uEymsyDtwhifvfPc/giphy.gif">   
   </div>
 
+
    ![Snake animation](https://github.com/Higornmr/higornmr/blob/output/github-contribution-grid-snake.svg)
+
   

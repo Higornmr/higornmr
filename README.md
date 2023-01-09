@@ -1,5 +1,4 @@
 <div align="center"><h1> Olá! Eu me chamo Higor Nunes Rodrigues Martins</h1></div>
-
  
 <div align="left">
  <img align="center" alt="Outgo caminhando" height="60" width="50" src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif"> 
@@ -16,20 +15,25 @@
  - Contate-me no email: higor_1992@hotmail.com
   </div>
   
-##
+---
 
 <div align="center">
 <img align="center" alt="simbolo da programação" height="100" width="90" src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif">
-</div
+</div>
+ 
 
-  ##
-<div align="center">
-  <a href="https://github.com/Higornmr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higornmr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higornmr&layout=compact&langs_count=7&theme=dracula"/>
+ <div align="center">
+ <h1>📊 GitHub Stats:</h1>
 </div>
 
-  ##
+ <div align="center">
+  <a href="https://github.com/Higornmr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Higornmr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higornmr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+   </div>
+ <div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Higornmr&theme=dracula&hide_border=false"/></div>
+
+ ---
   <div align="center">  
   <img align="left" alt="raduken" height="110" width="80" src="https://media.giphy.com/media/KcWdO5QnBY8vu5odJO/giphy.gif">
         <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
@@ -52,10 +56,16 @@
    <img align="center" alt="docker" height="80" width="60" src="https://media.giphy.com/media/zGUokBlj0s2zpnfAtr/giphy.gif">
     <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
 </div>
-
  
  
-  ##
+ <div align="center">
+  <h2>🏆 GitHub Trophies</h2><br>
+   </div>
+   <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Higornmr&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+ </div>
+ 
+---
   <div align="center" width="300"> 
     <img align="center" alt="Jolteon" height="60" width="50" src="https://media.giphy.com/media/fYkYhw2ANU1I4/giphy.gif"> 
   </div>
@@ -69,8 +79,17 @@
  <div align="center">
  <img align="center" alt="Outgo dando tchau" height="100" width="90" src="https://media.giphy.com/media/67uEymsyDtwhifvfPc/giphy.gif">   
   </div>
-
-
-   ![Snake animation](https://github.com/Higornmr/higornmr/blob/output/github-contribution-grid-snake.svg)
-
-  
+ 
+ 
+ <div align="right">
+  <h2>✍️ Random Dev Quote</h2><br>
+   </div>
+   <div align="right">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+ </div>
+ 
+--- 
+ 
+ [![](https://visitcount.itsvg.in/api?id=Higornmr&icon=0&color=0)](https://visitcount.itsvg.in) 
+ 
+   ![Snake animation](https://github.com/Higornmr/higornmr/blob/output/github-contribution-grid-snake.svg) 

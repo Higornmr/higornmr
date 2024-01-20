@@ -10,6 +10,11 @@
  - Formação no DevClub - Full-Stack
   </div>
 
+  <div align="left">
+ <img align="center" alt="Outgo nalhando" height="60" width="50" src="https://media.giphy.com/media/Jpe7LRWMP9EFpV3aJw/giphy.gif"> 
+ - Dev Front-End na empresa: https://www.planmkt.com.br/
+  </div>
+
  <div align="left">
  <img align="center" alt="Outgo dançando" height="60" width="50" src="https://media.giphy.com/media/eIb7CYMRilEUMcgXGB/giphy.gif"> 
  - Contate-me no email: higor_1992@hotmail.com
@@ -34,7 +39,7 @@
  <div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Higornmr&theme=dracula&hide_border=false"/></div>
 
  ---
-  <div align="center">  
+<div align="center">  
   <img align="left" alt="raduken" height="110" width="80" src="https://media.giphy.com/media/KcWdO5QnBY8vu5odJO/giphy.gif">
         <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
   <img align="center" alt="HTML" height="50" width="40" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
@@ -43,6 +48,8 @@
    <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
   <img align="center" alt="Js" height="50" width="40" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">  
        <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
+  <img align="center" alt="VueJs" height="50" width="40" src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif">
+      <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
   <img align="center" alt="React" height="50" width="40" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" >    
       <img align="center"  alt="star" height="40" width="30" src="https://media.giphy.com/media/iroGO5siMg0eXrwI2v/giphy.gif">
   <img align="center" alt="Node" height="50" width="40" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">

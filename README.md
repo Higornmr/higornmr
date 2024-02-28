@@ -1,12 +1,12 @@
 <div align="center"><h1> Olá! Eu me chamo Higor Nunes Rodrigues Martins</h1></div>
  
 <div align="left">
- <img align="center" alt="Outgo nalhando" height="60" width="50" src="https://media.giphy.com/media/Jpe7LRWMP9EFpV3aJw/giphy.gif"> 
+  <img align="center" alt="Outgo caminhando" height="60" width="50" src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif">
  - Dev Front-End na empresa: https://www.planmkt.com.br/
 </div>
 
 <div align="left">
- <img align="center" alt="Outgo caminhando" height="60" width="50" src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif"> 
+ <img align="center" alt="Outgo nalhando" height="60" width="50" src="https://media.giphy.com/media/Jpe7LRWMP9EFpV3aJw/giphy.gif"> 
 - Sou programador Full Stack
 </div>
   

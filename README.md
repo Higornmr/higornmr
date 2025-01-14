@@ -7,7 +7,7 @@
 
 <div align="left">
  <img align="center" alt="Outgo nalhando" height="60" width="50" src="https://media.giphy.com/media/Jpe7LRWMP9EFpV3aJw/giphy.gif"> 
-- Sou programador Full Stack
+- Sou programador Front End
 </div>
   
  <div align="left">

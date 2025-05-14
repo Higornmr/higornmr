@@ -25,18 +25,6 @@
 <div align="center">
 <img align="center" alt="simbolo da programação" height="100" width="90" src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif">
 </div>
- 
-
- <div align="center">
- <h1>📊 GitHub Stats:</h1>
-</div>
-
- <div align="center">
-  <a href="https://github.com/Higornmr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Higornmr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higornmr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-   </div>
- <div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Higornmr&theme=dracula&hide_border=false"/></div>
 
  ---
 <div align="center">  

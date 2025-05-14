@@ -82,9 +82,4 @@
    <div align="right">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
  </div>
- 
---- 
- 
- [![](https://visitcount.itsvg.in/api?id=Higornmr&icon=0&color=0)](https://visitcount.itsvg.in) 
- 
-   ![Snake animation](https://github.com/Higornmr/higornmr/blob/output/github-contribution-grid-snake.svg) 
+
